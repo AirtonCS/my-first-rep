@@ -1,2 +1,2 @@
 # my-first-rep
-Meu primeiro repositório!
+Este arquivo se trata do meu repositório, onde armazeno meus arquivos, onde usei as ferramentas e comandos necessários do GitHub para ter a capacidade de baixar o arquivo do repo. para minha máquina, depois alterar os dados, salvar na maquina, comentar as alterações para ficar algo otimizado para toda uma equipe entender e depois envio as alterações sobreescrevendo o arquivo da nuvem com o arquivo local. como também o contrário caso haja necessidade. 
